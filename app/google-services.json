@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "560175616444",
+    "project_id": "svalina-lv8",
+    "storage_bucket": "svalina-lv8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560175616444:android:9a7ee5c83dd1f0411f5bb9",
+        "android_client_info": {
+          "package_name": "com.example.svalina_lv8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560175616444-m8obes4pltpop7okpllnttbfe7s3i84i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIpdDRhMofuzsO_G_bsMnzPH9Ifzf2xSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560175616444-m8obes4pltpop7okpllnttbfe7s3i84i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
